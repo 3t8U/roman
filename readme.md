@@ -26,12 +26,9 @@ _The application will take mathematical digits inputted by the user, and convert
 ## Setup/Installation Requirements
 
 * _Open HTML page in browser_
-* __
+* _enter a number_
 * _Push the submit button_
 * _Read your results_
-
-
-__
 
 ## Known Bugs
 
@@ -39,7 +36,7 @@ _No known bugs_
 
 ## Support and contact details
 
-__
+_(ike.esquivelpilloud@gmail.com), (russellsproutz@gmail.com)_
 
 ## Technologies Used
 
@@ -50,4 +47,4 @@ _HTML, CSS, Git, jQuery and Javascript were used to make this application_
 *The MIT License
 
 
-Copyright (c) 2019 **_Malcolm Womble, Nate Powers_**
+Copyright (c) 2019 **_Ike Esquivel-Pilloud, Nate Powers_**
